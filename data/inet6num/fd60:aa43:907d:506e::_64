@@ -1,0 +1,10 @@
+inet6num:		fd60:aa43:907d:506e:0000:0000:0000:0000 - fd60:aa43:907d:506e:ffff:ffff:ffff:ffff:ffff
+cidr:			fd60:aa43:907d:506e::/64
+netname:		CHCHUY-NETWORK
+descr:			Network of CHCHUY
+country:		MX
+admin-c:		CHCHUY-DN42
+tech-c:			CHCHUY-DN42
+mnt-by:			CHCHUY-MNT
+status:			ASSIGNED
+source:			DN42
